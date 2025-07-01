@@ -2,7 +2,7 @@ def evenSum(nums):
     total = 0
     for i in nums:
         if i%2 == 0:
-            count +=i
+            total +=i
     return total
 
 nums = [1, 4, 5, 6, 9, 10]
