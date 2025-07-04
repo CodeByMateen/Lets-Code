@@ -1,15 +1,5 @@
 # nums = [1, 2, 4, 5, 6]
 
-# method 1
-# nums = []
-# size = int(input("Enter the size of list: "))
-# element_to_skip = int(input("Enter element to skip: "))
-
-# for i in range(1, size): #since we'll be skipping one element
-#     if i == element_to_skip:
-#         continue
-#     nums.append(i)
-
 # method 2
 # size = int(input("Enter the size of list: "))
 # element_to_skip = int(input("Enter element to skip: "))
