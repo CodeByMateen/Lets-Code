@@ -8,6 +8,10 @@ Output: 9
 Explanation: Maximum sum of any 3 consecutive elements is 5 + 1 + 3 = 9
 '''
 
+###
+'''using sliding window technique'''
+###
+
 ## solution 1 - by me
 
 nums = [2, 1, 5, 1, 3, 2]
